@@ -1,0 +1,12 @@
+# Example .env file
+
+# Database configuration
+db:
+  host: #host
+  port: #port
+  user: #database user
+  password: #database password
+  name: #name of database
+
+server:
+  port: 8080
